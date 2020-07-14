@@ -10,12 +10,13 @@
 
 🇧🇷 From Brazil
 
-:sunglasses: Main technologies
   - ⚡ Javascript: **React.js, Vue.js, Angular** and :heart_eyes: **Vanilla** :heart_eyes: .
   - :sparkling_heart: Css   
     - **Styles:** CSS3, Sass, Less and Stylus;
     - **Architecture:** SMACSS, ITCSS, SUITCSS, OOCSS and BEM;
     - **Components:** styled-components;
+
+:books: Learning how to apply **software engineering** solutions in front-end development.
 
 :neckbeard: Fun facts:
   - poker player :spades: :hearts: :clubs: :diamonds:
