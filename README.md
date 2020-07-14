@@ -3,13 +3,19 @@
 ### Hi there 👋
 
 - :man_technologist: **Front-end** developer.
+
 - :sunglasses: Main technologies:
   - ⚡ Javascript: **React.js, Vue.js, Angular** and :heart_eyes: **Vanilla** :heart_eyes: .
+
   - :sparkling_heart: Css
+    
     - **Styles:** CSS3, Sass, Less and Stylus;
+    
     - **Architecture:** SMACSS, ITCSS, SUITCSS, OOCSS and BEM;
+    
     - **Components:** styled-components;
 - 🇧🇷 From Brazil 🇧🇷
+
 - :neckbeard: Fun facts:
   - poker player :spades: :hearts: :clubs: :diamonds:
 
