@@ -20,6 +20,6 @@
 
 
 :neckbeard: Fun facts:
-  - poker player :spades: :hearts: :clubs: :diamonds:
+  - Poker player :spades: :hearts: :clubs: :diamonds:
 
 ---
