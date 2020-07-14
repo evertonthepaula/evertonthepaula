@@ -1,8 +1,3 @@
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/evertonthepaula)](https://github.com/evertonthepaula)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evertonthepaula/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-02b875?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@evertonthepaula)](https://medium.com/@evertonthepaula)
-[![Codewars Badge](https://www.codewars.com/users/evertonthepaula/badges/micro)](hhttps://www.codewars.com/users/evertonthepaula)
-
 ### Hi there! I'm Everton de Paula. 👋
 
 :man_technologist: **Front-end** developer.
@@ -23,3 +18,7 @@
   - Poker player :spades: :hearts: :clubs: :diamonds:
 
 ---
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/evertonthepaula)](https://github.com/evertonthepaula)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evertonthepaula/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-02b875?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@evertonthepaula)](https://medium.com/@evertonthepaula)
+[![Codewars Badge](https://www.codewars.com/users/evertonthepaula/badges/micro)](hhttps://www.codewars.com/users/evertonthepaula)
