@@ -3,7 +3,7 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-02b875?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@evertonthepaula)](https://medium.com/@evertonthepaula)
 [![Codewars Badge](https://www.codewars.com/users/evertonthepaula/badges/micro)](hhttps://www.codewars.com/users/evertonthepaula)
 
-### Hi there Hey, I'm Everton de Paula! 👋
+### Hi there! I'm Everton de Paula. 👋
 
 :man_technologist: **Front-end** developer.
 
