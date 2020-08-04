@@ -15,7 +15,7 @@
 
 
 :neckbeard: Fun facts:
-  - Poker player :spades: :hearts: :clubs: :diamonds:
+  - I'm a poker player :spades: :hearts: :clubs: :diamonds:
 
 ---
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/evertonthepaula)](https://github.com/evertonthepaula)
