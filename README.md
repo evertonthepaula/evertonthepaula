@@ -6,7 +6,7 @@
 
 :books: Learning how to apply **software engineering** solutions in front-end development.
 
-**Main technologies**
+**Main Skills**
   - ⚡ Javascript: **React.js, Vue.js, Angular** and :heart_eyes: **Vanilla** :heart_eyes: .
   - :sparkling_heart: Css   
     - **Styles:** CSS3, Sass, Less and Stylus;
