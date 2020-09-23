@@ -18,7 +18,22 @@
   - I'm a poker player :spades: :hearts: :clubs: :diamonds:
 
 ---
+
+#### Links
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/evertonthepaula)](https://github.com/evertonthepaula)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evertonthepaula/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-02b875?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@evertonthepaula)](https://medium.com/@evertonthepaula)
 [![Codewars Badge](https://www.codewars.com/users/evertonthepaula/badges/micro)](hhttps://www.codewars.com/users/evertonthepaula)
+
+#### Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-FFFFFF?style=flat-square&logo=React)
+![Vue.js](https://img.shields.io/badge/-Vuejs-35495e?style=flat-square&logo=Vue.js)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
