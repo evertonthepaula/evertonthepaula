@@ -8,6 +8,8 @@
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+---
+
 ### Hi there! I'm Everton de Paula. 👋
 
 :man_technologist: **Front-end** developer.
