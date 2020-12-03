@@ -1,5 +1,4 @@
 ## Hi there! I'm Everton de Paula. 👋
----
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/evertonthepaula)](https://github.com/evertonthepaula)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evertonthepaula/)
