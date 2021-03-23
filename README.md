@@ -18,7 +18,7 @@
 ![Everton de Paula github stats](https://github-readme-stats.vercel.app/api?username=evertonthepaula&theme=nord&show_icons=true)
 
 **Main Skills**
-  - ⚡ Javascript: **React.js, Vue.js, Angular** and :heart_eyes: **Vanilla** :heart_eyes: .
+  - ⚡ Javascript: **React.js(Redux, Redux-sagas), Vue.js, Angular(NGXS)** and :heart_eyes: **Vanilla** :heart_eyes: .
   - :sparkling_heart: Css   
     - **Styles:** CSS3, Sass, Less and Stylus;
     - **Architecture:** SMACSS, ITCSS, SUITCSS, OOCSS and BEM;
