@@ -33,8 +33,10 @@
     - **Architecture:** SMACSS, ITCSS, SUITCSS, OOCSS and BEM;
     - **Components:** styled-components;
 
+ 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonthepaula&layout=compact&theme=nord&langs_count=8"/>
+ 
 **General Stats**
 
- <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonthepaula&layout=compact&theme=nord&langs_count=8"/>
- <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=evertonthepaula&theme=nord&show_icons=true"/>
- <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=evertonthepaula&theme=nord&layout=compact"/>
+ <img width="333px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=evertonthepaula&theme=nord&layout=compact"/>
+ <img width="333px" align="left" src="https://github-readme-stats.vercel.app/api?username=evertonthepaula&theme=nord&show_icons=true"/>
