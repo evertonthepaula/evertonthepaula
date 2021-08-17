@@ -11,9 +11,7 @@
 
 :books: Learning how to apply **software engineering** solutions in front-end development.
 
-:neckbeard: Fun fact: I'm a poker player :spades: :hearts: :clubs: :diamonds:
-
-
+:neckbeard: Fun facts: I'm a poker player :spades: :hearts: :clubs: :diamonds: and :heart_eyes: **Vanilla.JS** :heart_eyes: lover.
 
 **Main Skills**
 ---
@@ -27,7 +25,10 @@
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-  - ⚡ Javascript: **React.js(Redux, Redux-sagas), Vue.js, Angular(NGXS)** and :heart_eyes: **Vanilla** :heart_eyes: .
+  - ⚡ Javascript: 
+    - **React.js** (Redux, Redux-sagas)
+    - **Vue.js**
+    - **Angular** (NGXS) 
   - :sparkling_heart: Css   
     - **Styles:** CSS3, Sass, Less and Stylus;
     - **Architecture:** SMACSS, ITCSS, SUITCSS, OOCSS and BEM;
