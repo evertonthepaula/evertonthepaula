@@ -1,9 +1,7 @@
 ## Hi there! I'm Everton de Paula. 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/evertonthepaula)](https://github.com/evertonthepaula)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evertonthepaula/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-02b875?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@evertonthepaula)](https://medium.com/@evertonthepaula)
-[![Codewars Badge](https://www.codewars.com/users/evertonthepaula/badges/micro)](hhttps://www.codewars.com/users/evertonthepaula)
 
 :man_technologist: **Front-end** developer.
 
@@ -24,6 +22,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+[![Codewars Badge](https://www.codewars.com/users/evertonthepaula/badges/micro)](https://www.codewars.com/users/evertonthepaula)
+<!-- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/evertonthepaula)](https://github.com/evertonthepaula) -->
 
   - ⚡ Javascript: 
     - **React.js** (Redux, Redux-sagas)
@@ -35,9 +35,9 @@
     - **Components:** styled-components;
 
  
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonthepaula&layout=compact&theme=nord&langs_count=8"/>
- 
-**General Stats**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonthepaula&layout=compact&theme=nord&langs_count=8"/>
 
+**General Stats**
+---
  <img width="333px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=evertonthepaula&theme=nord&layout=compact"/>
  <img width="333px" align="left" src="https://github-readme-stats.vercel.app/api?username=evertonthepaula&theme=nord&show_icons=true"/>
