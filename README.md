@@ -13,21 +13,9 @@
 
 :neckbeard: Fun fact: I'm a poker player :spades: :hearts: :clubs: :diamonds:
 
-**General Stats**
 
-![Everton de Paula github stats](https://github-readme-stats.vercel.app/api?username=evertonthepaula&theme=nord&show_icons=true)
 
 **Main Skills**
-  - ⚡ Javascript: **React.js(Redux, Redux-sagas), Vue.js, Angular(NGXS)** and :heart_eyes: **Vanilla** :heart_eyes: .
-  - :sparkling_heart: Css   
-    - **Styles:** CSS3, Sass, Less and Stylus;
-    - **Architecture:** SMACSS, ITCSS, SUITCSS, OOCSS and BEM;
-    - **Components:** styled-components;
-
-**Top Langs**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonthepaula&layout=compact&theme=nord&langs_count=8)](https://github.com/evertonthepaula/github-readme-stats) 
-
 ---
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-FFFFFF?style=flat-square&logo=React)
@@ -38,3 +26,15 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+  - ⚡ Javascript: **React.js(Redux, Redux-sagas), Vue.js, Angular(NGXS)** and :heart_eyes: **Vanilla** :heart_eyes: .
+  - :sparkling_heart: Css   
+    - **Styles:** CSS3, Sass, Less and Stylus;
+    - **Architecture:** SMACSS, ITCSS, SUITCSS, OOCSS and BEM;
+    - **Components:** styled-components;
+
+**General Stats**
+
+ <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonthepaula&layout=compact&theme=nord&langs_count=8"/>
+ <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=evertonthepaula&theme=nord&show_icons=true"/>
+ <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=evertonthepaula&theme=nord&layout=compact"/>
