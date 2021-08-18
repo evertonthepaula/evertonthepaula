@@ -34,12 +34,12 @@
     - **Architecture:** SMACSS, ITCSS, SUITCSS, OOCSS and BEM;
     - **Components:** styled-components;
 
-<!--  
+ 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonthepaula&layout=compact&theme=nord&langs_count=8"/>
-
-[![Everton wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=evertonthepaula)](https://github.com/evertonthepaula) -->
 
 **General Stats**
 ---
- <img width="333px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=evertonthepaula&theme=nord&layout=compact"/>
+<!--  <img width="333px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=evertonthepaula&theme=nord&layout=compact"/> -->
+<!--  [![Everton wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=evertonthepaula)](https://github.com/evertonthepaula) -->
+ 
  <img width="333px" align="left" src="https://github-readme-stats.vercel.app/api?username=evertonthepaula&theme=nord&show_icons=true"/>
