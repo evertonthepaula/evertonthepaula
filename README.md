@@ -34,8 +34,10 @@
     - **Architecture:** SMACSS, ITCSS, SUITCSS, OOCSS and BEM;
     - **Components:** styled-components;
 
- 
+<!--  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonthepaula&layout=compact&theme=nord&langs_count=8"/>
+
+[![Everton wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=evertonthepaula)](https://github.com/evertonthepaula) -->
 
 **General Stats**
 ---
