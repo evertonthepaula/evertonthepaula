@@ -39,7 +39,7 @@
 
 **General Stats**
 ---
-<!--  <img width="333px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=evertonthepaula&theme=nord&layout=compact"/> -->
-<!--  [![Everton wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=evertonthepaula)](https://github.com/evertonthepaula) -->
+
+ <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=evertonthepaula&layuout=compact&theme=nord"/>
  
  <img width="333px" align="left" src="https://github-readme-stats.vercel.app/api?username=evertonthepaula&theme=nord&show_icons=true"/>
